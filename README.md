@@ -37,7 +37,6 @@ Outside of coding, I'm also a **content creator** on **YouTube and Instagram**, 
 ## 📈 Stats & Achievements
 
 - ✅ **AZ-900 Certified** (Microsoft Azure Fundamentals)
-- ✅ Developed a **solution with nearly 100% code coverage**, free from **SonarQube & Checkmarx issues**
 - ✅ Passionate about **clean code, automation, and best practices**
 
 ---
@@ -53,10 +52,10 @@ Outside of coding, I'm also a **content creator** on **YouTube and Instagram**, 
 
 ## 📢 Let's Connect
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/ajay)
-- 📹 [YouTube](https://www.youtube.com/@ajay)
-- 📷 [Instagram](https://www.instagram.com/ajay)
-- 💼 [Portfolio](#) *(Coming Soon!)*
+- 🌐 [LinkedIn](#)
+- 📹 [YouTube](#)
+- 📷 [Instagram](#)
+- 💼 [Portfolio](#)
 
 Let's collaborate and build something amazing! 🚀
 
