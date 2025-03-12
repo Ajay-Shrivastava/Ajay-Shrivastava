@@ -1,4 +1,4 @@
-<span align="center" font-size="100px">
+<span align="center">
   #Hi there, I'm Ajay Shrivastava! 👋
 </span>
 
