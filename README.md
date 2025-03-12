@@ -1,6 +1,4 @@
-<p align="center" style="font-size: 30px; margin-bottom: 40px ; font-weight: bolder">
-  <strong> #Hi there, I'm Ajay Shrivastava! 👋 </strong>
-</p>
+#Hi there, I'm Ajay Shrivastava! 👋
 
 ---
 
