@@ -1,6 +1,6 @@
-<span align="center">
+<p align="center">
   #Hi there, I'm Ajay Shrivastava! 👋
-</span>
+</p>
 
 ---
 
