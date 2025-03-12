@@ -48,6 +48,7 @@ Outside of coding, I'm also a **content creator** on **YouTube and Instagram**, 
 ![Ajay's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ajay-Shrivastava&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)
 
 | | | |
+| :--: | :--: | :--: |
 | `default` ![default][default] | `transparent` ![transparent][transparent] | `shadow_red` ![shadow_red][shadow_red] |
 | `shadow_green` ![shadow_green][shadow_green] | `shadow_blue` ![shadow_blue][shadow_blue] | `dark` ![dark][dark] |
 
