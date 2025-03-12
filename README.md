@@ -1,6 +1,5 @@
-# Hi there, I'm Ajay Shrivastava! 👋
 <p align="center">
-🚀 **Associate Product Software Engineer** | 💻 **.NET | Angular | Azure | DevOps | Docker** | 🎯 **Passionate Coder & Content Creator**
+  # Hi there, I'm Ajay Shrivastava! 👋
 </p>
 
 <p align="center">
