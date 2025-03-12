@@ -1,4 +1,4 @@
-<p align="center" style="font-size: 30px; margin-bottom:40px; font-weight: bolder">
+<p align="center" style="font-size: '30ps'; margin-bottom: '40px' ; font-weight: bolder">
   #Hi there, I'm Ajay Shrivastava! 👋
 </p>
 
