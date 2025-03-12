@@ -1,6 +1,8 @@
 <h1 align="center">
-  # Hi there, I'm Ajay Shrivastava! 👋
+  #Hi there, I'm Ajay Shrivastava! 👋
 </h1>
+
+---
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Pacifico&weight=800&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+Enthusiast;Craving+for+Coding" alt="Typing SVG" />
