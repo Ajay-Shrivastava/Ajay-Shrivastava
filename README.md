@@ -42,13 +42,15 @@ Outside of coding, I'm also a **content creator** on **YouTube and Instagram**, 
 ---
 
 ## 📊 GitHub Stats
+| | | |
+| :-: | :-: | :-: |
+| ![Top Languages][top-languages] | ![Top_Language_By_Repo][topLanguage-by-repo] | ![Top_Language_By_Commit][topLanguage-by-commit] |
 
  </br>
  
-| | | | 
-| :--: | :--: |  :--: |
-| ![Ajay's GitHub stats][github-stats] | ![GitHub Streak][github-streak] | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay-Shrivastava&layout=compact&theme=dark) |
-
+| | |
+| :--: | :--: |
+| ![Ajay's GitHub stats][github-stats] | ![GitHub Streak][github-streak] |
 ![Ajay's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ajay-Shrivastava&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)
 
 ---
@@ -64,5 +66,8 @@ Let's collaborate and build something amazing! 🚀
 
 [github-stats]: https://github-readme-stats.vercel.app/api?username=Ajay-Shrivastava&show_icons=true&hide=prs&cache_seconds=86400&theme=dark
 [github-streak]: https://github-readme-streak-stats.herokuapp.com/?user=Ajay-Shrivastava&theme=dark
+[top-languages]: https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay-Shrivastava&layout=compact&theme=dark
+[topLanguage-by-repo]: http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ajay-Shrivastava&theme=dark
+[topLanguage-by-commit]: http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ajay-Shrivastava&theme=dark
 
 
