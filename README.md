@@ -2,6 +2,8 @@
 
 🚀 **Associate Product Software Engineer** | 💻 **.NET | Angular | Azure | DevOps | Docker** | 🎯 **Passionate Coder & Content Creator**
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=fira+code&pause=1000&width=435&lines=Full+Stack+Developer;AI+Enthusiast;Craving+for+Coding" alt="Typing SVG" /></a>
+
 ---
 
 ## 🚀 About Me
