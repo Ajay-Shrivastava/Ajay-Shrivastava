@@ -1,6 +1,6 @@
-<h1 align="center">
+<span align="center" font-size="100px">
   #Hi there, I'm Ajay Shrivastava! 👋
-</h1>
+</span>
 
 ---
 
