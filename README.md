@@ -37,7 +37,8 @@ Outside of coding, I'm also a **content creator** on **YouTube and Instagram**, 
 ## 📈 Stats & Achievements
 
 - ✅ **AZ-900 Certified** (Microsoft Azure Fundamentals)
-- ✅ Passionate about **clean code, automation, and best practices**
+- ✅ consistently maintaining **clean code, and best practices**
+- ✅ Passionate about Smart AI & AI automation 
 
 ---
 
