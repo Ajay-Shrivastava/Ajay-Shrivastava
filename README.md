@@ -43,10 +43,10 @@ Outside of coding, I'm also a **content creator** on **YouTube and Instagram**, 
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay-Shrivastava&layout=compact&theme=dark) </br>
-| | |
-| :--: | :--: |
-| ![Ajay's GitHub stats][github-stats] | ![GitHub Streak][github-streak] |
+ </br>
+| | | | 
+| :--: | :--: |  :--: |
+| ![Ajay's GitHub stats][github-stats] | ![GitHub Streak][github-streak] | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay-Shrivastava&layout=compact&theme=dark) |
 
 ![Ajay's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ajay-Shrivastava&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)
 
