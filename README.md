@@ -65,7 +65,7 @@ Outside of coding, I'm also a **content creator** on **YouTube and Instagram**, 
 
 Let's collaborate and build something amazing! 🚀
 
-[github-stats]: https://github-readme-stats.vercel.app/api?username=Ajay-Shrivastava&show_icons=true&hide=prs&cache_seconds=86400&theme=dark
+[github-stats]: https://github-readme-stats.vercel.app/api?username=Ajay-Shrivastava&show_icons=true&cache_seconds=86400&theme=dark
 [github-streak]: https://github-readme-streak-stats.herokuapp.com/?user=Ajay-Shrivastava&theme=dark
 [top-languages]: https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay-Shrivastava&layout=compact&theme=dark&hide_border=true
 [topLanguage-by-repo]: http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ajay-Shrivastava&theme=dark
