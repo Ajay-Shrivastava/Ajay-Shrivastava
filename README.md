@@ -67,7 +67,7 @@ Let's collaborate and build something amazing! 🚀
 
 [github-stats]: https://github-readme-stats.vercel.app/api?username=Ajay-Shrivastava&show_icons=true&hide=prs&cache_seconds=86400&theme=dark
 [github-streak]: https://github-readme-streak-stats.herokuapp.com/?user=Ajay-Shrivastava&theme=dark
-[top-languages]: https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay-Shrivastava&layout=compact&theme=dark&hide-border=true
+[top-languages]: https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay-Shrivastava&layout=compact&theme=dark&hide_border=true
 [topLanguage-by-repo]: http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ajay-Shrivastava&theme=dark
 [topLanguage-by-commit]: http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ajay-Shrivastava&theme=dark
 
