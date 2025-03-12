@@ -3,7 +3,7 @@
 🚀 **Associate Product Software Engineer** | 💻 **.NET | Angular | Azure | DevOps | Docker** | 🎯 **Passionate Coder & Content Creator**
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=fira+code&weight=800&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+Enthusiast;Craving+for+Coding" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&weight=800&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+Enthusiast;Craving+for+Coding" alt="Typing SVG" />
 </p>
 
 ---
