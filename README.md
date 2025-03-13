@@ -18,7 +18,7 @@ Outside of coding, I'm also a **content creator** on **YouTube and Instagram**, 
 
 ## 🔧 Tech Stack & Skills
 
-- **Backend:** .NET Core, C#, LINQ, Entity Framework, SQL
+- **Backend:** .NET Framework, C#, LINQ, Entity Framework, SQL
 - **Frontend:** Angular, HTML, CSS, JavaScript, TypeScript
 - **Cloud & DevOps:** Azure, Azure DevOps, Docker, Terraform, Kubernetes
 - **Tools & Other Skills:** GitHub Actions, DevOps Pipelines, Dapr, Microservices, Azure funcions
